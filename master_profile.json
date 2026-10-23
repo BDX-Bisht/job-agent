@@ -1,0 +1,42 @@
+{
+  "personal": {
+    "name": "Your Name",
+    "email": "you@example.com",
+    "phone": "+91-XXXXXXXXXX",
+    "location": "Delhi, India",
+    "links": {
+      "linkedin": "https://linkedin.com/in/your-id",
+      "github": "https://github.com/your-id"
+    }
+  },
+  "headline": "Your target role, e.g. Python Developer | AI/ML",
+  "summary": "2-3 lines about you. Only real facts.",
+  "skills": ["Python", "SQL", "Git"],
+  "experience": [
+    {
+      "id": "exp1",
+      "company": "Company Name",
+      "title": "Your Title",
+      "start": "Jan 2024",
+      "end": "Present",
+      "location": "City",
+      "bullets": [
+        "Real achievement or responsibility 1 (add numbers if true)",
+        "Real achievement or responsibility 2"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj1",
+      "name": "Project Name",
+      "tech": ["Python"],
+      "link": "",
+      "bullets": ["What you built and the result"]
+    }
+  ],
+  "education": [
+    {"institution": "College Name", "degree": "B.Tech / BCA / ...", "start": "2020", "end": "2024", "score": ""}
+  ],
+  "certifications": []
+}
